@@ -8,7 +8,7 @@ Data Cleaning and Feature Selection are fundamental processes in preparing and r
 
 **Data Cleaning** refers to the process of identifying and correcting or handling errors, inaccuracies, inconsistencies, and missing values within a dataset. It aims to ensure that the data is in a format that can be effectively utilized for analysis and modeling. Data cleaning involves various tasks such as handling missing values, addressing outliers, and resolving data inconsistencies. By the end of the data cleaning process, the dataset should be reliable, accurate, and devoid of issues that could compromise the quality of any subsequent analysis or model building.
 
-### Feature Selection
+### :atom: Feature Selection
 
 **Feature Selection** is the process of identifying and choosing the most relevant and significant features (or variables) from a dataset to be used for modeling. The objective is to optimize the performance of a machine learning model by focusing on the most informative attributes while reducing dimensionality and noise. Feature selection helps in improving model efficiency, reducing overfitting, and enhancing the interpretability of the model.
 
